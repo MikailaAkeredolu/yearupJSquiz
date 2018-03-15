@@ -1,4 +1,4 @@
- # Year Up Final Quiz JS
+ # Year Up JS Quiz
 
 ####  Time: 90 minutes
 
