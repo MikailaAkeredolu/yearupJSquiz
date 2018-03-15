@@ -24,7 +24,7 @@ Mulitiply the second and third number that the user enters together and divide t
 For example: if the first number was 2, the second number was 3 and the third number was 10.
 ```
 ``` 
-You would multiply 3 by 10 = 30. Then divide the result by 2 = 15
+You would multiply 3 by 10 = 30. Then divide the result by 2
 ```
 
  ### Question 3 (Remember Remainder) 
