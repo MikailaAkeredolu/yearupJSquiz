@@ -19,6 +19,7 @@ You can swap out Mike Jones for your first and last name
  ### Question 2 (Prompt&Calc)
 Prompt a user for 3 numbers one at a time - use the prompt( ) function.
 Mulitiply the second and third number that the user enters together and divide the result by the first number.
+Then Alert the result by using the alert( ) function.  
 
 ```
 For example: if the first number was 2, the second number was 3 and the third number was 10.
